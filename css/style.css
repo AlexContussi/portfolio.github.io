@@ -6,4 +6,12 @@
 }
 .textPresentation{
     magin-left:50px;
+
+}
+
+.presentation{
+     vertical-align: middle;
+    border-style: none;
+    height: 180px;
+
 }
