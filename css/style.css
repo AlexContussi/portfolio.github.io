@@ -1,17 +1,10 @@
-img.imageDeMoi{
+.imageDeMoi{
     vertical-align: middle;
     border-style: none;
-    height: 180px;
+    height: 120px;
     float: left;
 }
 .textPresentation{
     magin-left:50px;
-
-}
-
-.presentation{
-     vertical-align: middle;
-    border-style: none;
-    height: 180px;
 
 }
