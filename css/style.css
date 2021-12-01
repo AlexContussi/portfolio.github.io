@@ -1,4 +1,9 @@
-.imgdemoi{
-    height:150px;
-    float:left;
+img{
+    vertical-align: middle;
+    border-style: none;
+    height: 180px;
+    float: left;
+}
+.textPresentation{
+    magin-left:50px;
 }
