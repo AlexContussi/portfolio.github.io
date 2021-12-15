@@ -1,14 +1,11 @@
-.debut{
-    display:flex;
-    float: left;
-    height:140px;
-    margin-right: 10px;
-}
-.bg-dark{
-    background-color: #5F9EA0!important;
-}
-.jumbotron{
-    padding-left:545px;
-    padding-top:96px;
-    
-}
+
+
+.bg-dark{background-color: #5F9EA0!important;}
+
+.jumbotron{padding-top:96px;}
+
+.presentation{text-align:center;}
+.presentation h1{color:#5F9EA0;font-size: 60px;}
+.presentation h2{text-decoration: underline;font-weight: bold;color: grey; font-size: revert;}
+.photo img{border-radius:50px;float:left; height:250px; border: solid #5F9EA0;}
+
