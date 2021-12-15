@@ -25,6 +25,7 @@ body { padding-top: 50px; }
 .rubrique h2 { color: #5F9EA0; }
 .rubrique h2::before{ margin-right: 5px; }
 .rubrique p{ font-size: 1.3em; line-height: 1.5em; }
+.rubrique p a{color:#BACDC1 }
 /******************************************
 * Parcours scolaire
 ******************************************/
